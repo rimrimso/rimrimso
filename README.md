@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision and machine learning.
 - 🌱 I’m currently a graduate student, focusing on multitask learning in computer vision.
 - 💞️ I’m looking to collaborate on projects related to CV, multitask learning applications, or autonomous driving research.
-- 📫 How to reach me : soyerimso@gmail.com
+- 📫 How to reach me : soyerimso@gmail.com, yrso@ewha.ac.kr
 - 😄 Pronouns: she/her
 
 <!---
